@@ -6,11 +6,12 @@
   "scripts": {
     "start": "parcel --open",
     "build": "parcel build"
- },
+  },
   "keywords": [],
   "author": "Anton Panasiuk",
   "license": "ISC",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.16.0",
     "parcel": "^2.16.0"
   },
   "dependencies": {
